@@ -1,3 +1,15 @@
 # Projet_champignons
 
-Dans ce projet, j'ai créé un modèle de machine learning pour la classification des champignons. Avant cela, j'ai analysé et préparé le jeu de données sur lequel j'ai travaillé. Ensuite, j'ai visualisé quelques variables importantes. Enfin, j'ai créé une interface simple avec la bibliothèque Streamlit pour déployer mon modèle.
+Présentation du projet champignons
+Ce projet consiste à développer un modèle de machine learning pour la classification des champignons (comestibles ou toxiques).
+Les étapes réalisées sont les suivantes :
+
+Préparation et analyse exploratoire du jeu de données ;
+
+Visualisation des variables les plus pertinentes ;
+
+Entraînement d’un modèle de classification à l’aide de Random Forest ;
+
+Création d’une interface utilisateur simple avec Streamlit pour tester et déployer le modèle.
+
+
